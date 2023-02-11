@@ -1,4 +1,5 @@
 /* 💡"JavaScript-with-JC"
+https://onecompiler.com/javascript/3yxkebkgr
 👉 Flatten Object implementation */
 
 const person = {
