@@ -1,4 +1,6 @@
 /* 💡"JavaScript-with-JC"
+https://onecompiler.com/javascript/3yxmphmhf
+
 👉 Promise.allSettled() and Its Polyfill
 Promise.allSettled() returns a promise that gets resolved when all passed promises are settled ( either fulfilled or rejected ) and in result 
 it gives an array of objects having status and the value/reason of each promise.
