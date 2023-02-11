@@ -1,6 +1,8 @@
 /* 💡"JavaScript-with-JC"
 👉 Array.prototype.map and It's Polyfill 
+
 link: https://onecompiler.com/javascript/3yxmmdxc7
+
 map is a higher order function in javascript that iterates through 
 each element of an array and can modify each element of an array.
 
