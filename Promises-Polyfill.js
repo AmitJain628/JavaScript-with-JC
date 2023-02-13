@@ -226,6 +226,7 @@ function promisePolyfillCode() {
   };
 
   const generateNumber = new customPromise(executor);
+  
 
   generateNumber.then((result) => {
     console.log(result); // number generated successfully 6.
