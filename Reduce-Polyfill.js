@@ -1,5 +1,6 @@
 /* 💡"JavaScript-with-JC"
 👉Array.prototype.reduce and Its Polyfill 
+link: https://onecompiler.com/javascript/3yxtmngct
 Array.prototype.reduce is a higher order function that iterates through each value of an array and reduces array of values into single value.
 
 💡Example -
