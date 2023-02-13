@@ -43,6 +43,7 @@ Promise.customRace = function (promisesArray) {
     for (let i = 0; i < promisesArray.length; i++) {
       Promise.resolve(promisesArray[i]).then(
         // 👇 return first resolved or rejected promise
+        
         (response) => {
           resolve(response);
         },
