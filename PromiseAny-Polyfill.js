@@ -1,5 +1,7 @@
 /* 💡"JavaScript-with-JC"
 👉 Promise.any() and Its Polyfill
+link: https://onecompiler.com/javascript/3yxt95ms2
+
 Promise.any() - It executes all passed promises concurrently and returns the first resolved promise result.
 
 💡Promise.any() Cases :-
